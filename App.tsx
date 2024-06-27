@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'eact';
 import ChartComponent from './ChartComponent';
 
 const App = () => {
